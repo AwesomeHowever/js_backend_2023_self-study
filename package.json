@@ -1,5 +1,23 @@
 {
+  "name": "js_backend",
+  "version": "1.0.0",
+  "description": "Back-end part",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AwesomeHowever/js_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AwesomeHowever/js_backend/issues"
+  },
+  "homepage": "https://github.com/AwesomeHowever/js_backend#readme",
   "dependencies": {
-    "react-router-redux": "^4.0.8"
+    "express": "^4.18.2",
+    "mongodb": "^5.1.0"
   }
 }
